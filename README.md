@@ -7,3 +7,11 @@ PYTHON-AMAZON-SP-API : https://github.com/saleweaver/python-amazon-sp-api
 
 This section primarily focuses on how to use an API with the Python programming language and how to store daily transactions.
 
+The datasets for each vendor to run their wearhouse are listed below.
+1. Order Data (https://developer-docs.amazon.com/sp-api/docs/orders-api-v0-reference)
+2. Fullfillment Inbound shipment data (https://developer-docs.amazon.com/sp-api/docs/fulfillment-inbound-api-v0-reference)
+3. Inventory by country (https://developer-docs.amazon.com/sp-api/docs/reports-api-v2021-06-30-reference)
+4. Report API (https://developer-docs.amazon.com/sp-api/docs/reports-api-v2021-06-30-reference)
+5. FBA Customer return (GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA )
+
+
