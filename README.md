@@ -21,4 +21,8 @@ The datasets for each vendor to run their wearhouse are listed below.
 In this article, I've broken down how to access the Amazon SP-API, normalise the data, create a daily schedule, and save the data in a database step by step.
 
 ### Set UP
-First we need to set uo seller central account 
+Before to using the Amazon SP-API service, we must first create an app and set up developer account. Although the method is easy to grasp But once you've finished creating the app, save all of your credentials.
+
+Follow steps from here : https://developer-docs.amazon.com/sp-api/docs/tutorial-create-a-private-selling-partner-api-application or you can find a guide book in amazon seller central website itself. 
+
+
